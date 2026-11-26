@@ -5,6 +5,7 @@ Writes the deadpan weather forecast to /output/entry.txt. In
 Blorpington: a 400% chance of sideways rain, winds gossiping at 60
 miles per hour, and fog that knows your name, your address, and your
 childhood pet. 153 of the 160-character cap, one line, broadcast tone.
+Revised 2026-11-26 (QUILL-B-FIX): docstring touch-up only; entry text unchanged.
 """
 
 import os
